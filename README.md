@@ -1,7 +1,7 @@
 ### Foro Hub API
 
 Foro Hub API proporciona servicios para la plataforma For Hub, permitiendo la gestión de tópicos entre usuarios.
-
+![image](https://github.com/user-attachments/assets/c5ae7acc-0511-42e0-85ac-c0b86d264194)
 ### Tecnologías Utilizadas
 
 - **Java**
